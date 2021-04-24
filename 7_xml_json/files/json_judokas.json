@@ -1,0 +1,197 @@
+[
+  {
+    "naam": "Ingrid Berghmans",
+    "geslacht": "VROUW",
+    "geboorte": {
+      "year": 1961,
+      "month": 8,
+      "day": 24
+    },
+    "gewicht": 72,
+    "gewichtsklasse": "HALF_ZWAAR",
+    "medaille": "GOUD",
+    "kampioenschap": "OLYMPISCH"
+  },
+  {
+    "naam": "Joachim Bottieau",
+    "geslacht": "MAN",
+    "geboorte": {
+      "year": 1989,
+      "month": 3,
+      "day": 20
+    },
+    "gewicht": 81,
+    "gewichtsklasse": "HALF_MIDDEN",
+    "medaille": "GOUD",
+    "kampioenschap": "BELGISCH"
+  },
+  {
+    "naam": "Jean-Marie Dedecker",
+    "geslacht": "MAN",
+    "geboorte": {
+      "year": 1952,
+      "month": 6,
+      "day": 13
+    },
+    "gewicht": 85,
+    "gewichtsklasse": "MIDDEN",
+    "medaille": "ZILVER",
+    "kampioenschap": "EUROPEES"
+  },
+  {
+    "naam": "Roland Cambier",
+    "geslacht": "MAN",
+    "geboorte": {
+      "year": 1925,
+      "month": 11,
+      "day": 12
+    },
+    "gewicht": 72,
+    "gewichtsklasse": "LICHT",
+    "medaille": "GOUD",
+    "kampioenschap": "BELGISCH"
+  },
+  {
+    "naam": "Lotte Denoo",
+    "geslacht": "VROUW",
+    "geboorte": {
+      "year": 1990,
+      "month": 11,
+      "day": 5
+    },
+    "gewicht": 57,
+    "gewichtsklasse": "LICHT",
+    "medaille": "GOUD",
+    "kampioenschap": "BELGISCH"
+  },
+  {
+    "naam": "Théo Guldemont",
+    "geslacht": "MAN",
+    "geboorte": {
+      "year": 1930,
+      "month": 12,
+      "day": 19
+    },
+    "gewicht": 65,
+    "gewichtsklasse": "HALF_LICHT",
+    "medaille": "BRONS",
+    "kampioenschap": "BELGISCH"
+  },
+  {
+    "naam": "Ilse Heylen",
+    "geslacht": "VROUW",
+    "geboorte": {
+      "year": 1977,
+      "month": 3,
+      "day": 21
+    },
+    "gewicht": 52,
+    "gewichtsklasse": "HALF_LICHT",
+    "medaille": "BRONS",
+    "kampioenschap": "OLYMPISCH"
+  },
+  {
+    "naam": "Jeannine Meulemans",
+    "geslacht": "VROUW",
+    "geboorte": {
+      "year": 1951,
+      "month": 3,
+      "day": 30
+    },
+    "gewicht": 56,
+    "gewichtsklasse": "LICHT",
+    "medaille": "GOUD",
+    "kampioenschap": "BELGISCH"
+  },
+  {
+    "naam": "Daniel Outelet",
+    "geslacht": "MAN",
+    "geboorte": {
+      "year": 1936,
+      "month": 3,
+      "day": 11
+    },
+    "gewicht": 73,
+    "gewichtsklasse": "LICHT",
+    "medaille": "GOUD",
+    "kampioenschap": "EUROPEES"
+  },
+  {
+    "naam": "Robert Plomb",
+    "geslacht": "MAN",
+    "geboorte": {
+      "year": 1920,
+      "month": 10,
+      "day": 19
+    },
+    "gewicht": 67,
+    "gewichtsklasse": "LICHT",
+    "medaille": "ZILVER",
+    "kampioenschap": "EUROPEES"
+  },
+  {
+    "naam": "Heidi Rakels",
+    "geslacht": "VROUW",
+    "geboorte": {
+      "year": 1968,
+      "month": 6,
+      "day": 22
+    },
+    "gewicht": 70,
+    "gewichtsklasse": "MIDDEN",
+    "medaille": "BRONS",
+    "kampioenschap": "OLYMPISCH"
+  },
+  {
+    "naam": "Amalie Rosseneu",
+    "geslacht": "VROUW",
+    "geboorte": {
+      "year": 1988,
+      "month": 1,
+      "day": 18
+    },
+    "gewicht": 47,
+    "gewichtsklasse": "EXTRA_LICHT",
+    "medaille": "GOUD",
+    "kampioenschap": "BELGISCH"
+  },
+  {
+    "naam": "Ann Simons",
+    "geslacht": "VROUW",
+    "geboorte": {
+      "year": 1980,
+      "month": 8,
+      "day": 5
+    },
+    "gewicht": 48,
+    "gewichtsklasse": "EXTRA_LICHT",
+    "medaille": "BRONS",
+    "kampioenschap": "OLYMPISCH"
+  },
+  {
+    "naam": "Marc Vallot",
+    "geslacht": "MAN",
+    "geboorte": {
+      "year": 1962,
+      "month": 5,
+      "day": 24
+    },
+    "gewicht": 78,
+    "gewichtsklasse": "HALF_MIDDEN",
+    "medaille": "GOUD",
+    "kampioenschap": "BELGISCH"
+  },
+  {
+    "naam": "Harry Van Barneveld",
+    "geslacht": "MAN",
+    "geboorte": {
+      "year": 1967,
+      "month": 2,
+      "day": 18
+    },
+    "gewicht": 125,
+    "gewichtsklasse": "ZWAAR",
+    "medaille": "BRONS",
+    "kampioenschap": "OLYMPISCH"
+  }
+]

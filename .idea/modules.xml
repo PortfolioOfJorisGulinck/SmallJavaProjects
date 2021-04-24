@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_herhaling/1_herhaling.iml" filepath="$PROJECT_DIR$/1_herhaling/1_herhaling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_reflection/2_reflection.iml" filepath="$PROJECT_DIR$/2_reflection/2_reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_testen/3_testen.iml" filepath="$PROJECT_DIR$/3_testen/3_testen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_patterns/4_patterns.iml" filepath="$PROJECT_DIR$/4_patterns/4_patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_persistentie/5_persistentie.iml" filepath="$PROJECT_DIR$/5_persistentie/5_persistentie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_streams/6_streams.iml" filepath="$PROJECT_DIR$/6_streams/6_streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_xml_json/7_xml_json.iml" filepath="$PROJECT_DIR$/7_xml_json/7_xml_json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_threads/8_threads.iml" filepath="$PROJECT_DIR$/8_threads/8_threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/be.kdg.judokas.iml" filepath="$PROJECT_DIR$/be.kdg.judokas.iml" />
+    </modules>
+  </component>
+</project>

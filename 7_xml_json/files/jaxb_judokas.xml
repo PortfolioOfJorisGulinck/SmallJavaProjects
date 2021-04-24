@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<judokas>
+    <judoka gewichtsklasse="HALF_ZWAAR">
+        <naam>Ingrid Berghmans</naam>
+        <geslacht>VROUW</geslacht>
+        <geboorte>1961-08-24</geboorte>
+        <gewicht>72</gewicht>
+        <medaille>GOUD</medaille>
+        <kampioenschap>OLYMPISCH</kampioenschap>
+    </judoka>
+    <judoka gewichtsklasse="HALF_MIDDEN">
+        <naam>Joachim Bottieau</naam>
+        <geslacht>MAN</geslacht>
+        <geboorte>1989-03-20</geboorte>
+        <gewicht>81</gewicht>
+        <medaille>GOUD</medaille>
+        <kampioenschap>BELGISCH</kampioenschap>
+    </judoka>
+    <judoka gewichtsklasse="MIDDEN">
+        <naam>Jean-Marie Dedecker</naam>
+        <geslacht>MAN</geslacht>
+        <geboorte>1952-06-13</geboorte>
+        <gewicht>85</gewicht>
+        <medaille>ZILVER</medaille>
+        <kampioenschap>EUROPEES</kampioenschap>
+    </judoka>
+    <judoka gewichtsklasse="LICHT">
+        <naam>Roland Cambier</naam>
+        <geslacht>MAN</geslacht>
+        <geboorte>1925-11-12</geboorte>
+        <gewicht>72</gewicht>
+        <medaille>GOUD</medaille>
+        <kampioenschap>BELGISCH</kampioenschap>
+    </judoka>
+    <judoka gewichtsklasse="LICHT">
+        <naam>Lotte Denoo</naam>
+        <geslacht>VROUW</geslacht>
+        <geboorte>1990-11-05</geboorte>
+        <gewicht>57</gewicht>
+        <medaille>GOUD</medaille>
+        <kampioenschap>BELGISCH</kampioenschap>
+    </judoka>
+    <judoka gewichtsklasse="HALF_LICHT">
+        <naam>Théo Guldemont</naam>
+        <geslacht>MAN</geslacht>
+        <geboorte>1930-12-19</geboorte>
+        <gewicht>65</gewicht>
+        <medaille>BRONS</medaille>
+        <kampioenschap>BELGISCH</kampioenschap>
+    </judoka>
+    <judoka gewichtsklasse="HALF_LICHT">
+        <naam>Ilse Heylen</naam>
+        <geslacht>VROUW</geslacht>
+        <geboorte>1977-03-21</geboorte>
+        <gewicht>52</gewicht>
+        <medaille>BRONS</medaille>
+        <kampioenschap>OLYMPISCH</kampioenschap>
+    </judoka>
+    <judoka gewichtsklasse="LICHT">
+        <naam>Jeannine Meulemans</naam>
+        <geslacht>VROUW</geslacht>
+        <geboorte>1951-03-30</geboorte>
+        <gewicht>56</gewicht>
+        <medaille>GOUD</medaille>
+        <kampioenschap>BELGISCH</kampioenschap>
+    </judoka>
+    <judoka gewichtsklasse="LICHT">
+        <naam>Daniel Outelet</naam>
+        <geslacht>MAN</geslacht>
+        <geboorte>1936-03-11</geboorte>
+        <gewicht>73</gewicht>
+        <medaille>GOUD</medaille>
+        <kampioenschap>EUROPEES</kampioenschap>
+    </judoka>
+    <judoka gewichtsklasse="LICHT">
+        <naam>Robert Plomb</naam>
+        <geslacht>MAN</geslacht>
+        <geboorte>1920-10-19</geboorte>
+        <gewicht>67</gewicht>
+        <medaille>ZILVER</medaille>
+        <kampioenschap>EUROPEES</kampioenschap>
+    </judoka>
+    <judoka gewichtsklasse="MIDDEN">
+        <naam>Heidi Rakels</naam>
+        <geslacht>VROUW</geslacht>
+        <geboorte>1968-06-22</geboorte>
+        <gewicht>70</gewicht>
+        <medaille>BRONS</medaille>
+        <kampioenschap>OLYMPISCH</kampioenschap>
+    </judoka>
+    <judoka gewichtsklasse="EXTRA_LICHT">
+        <naam>Amalie Rosseneu</naam>
+        <geslacht>VROUW</geslacht>
+        <geboorte>1988-01-18</geboorte>
+        <gewicht>47</gewicht>
+        <medaille>GOUD</medaille>
+        <kampioenschap>BELGISCH</kampioenschap>
+    </judoka>
+    <judoka gewichtsklasse="EXTRA_LICHT">
+        <naam>Ann Simons</naam>
+        <geslacht>VROUW</geslacht>
+        <geboorte>1980-08-05</geboorte>
+        <gewicht>48</gewicht>
+        <medaille>BRONS</medaille>
+        <kampioenschap>OLYMPISCH</kampioenschap>
+    </judoka>
+    <judoka gewichtsklasse="HALF_MIDDEN">
+        <naam>Marc Vallot</naam>
+        <geslacht>MAN</geslacht>
+        <geboorte>1962-05-24</geboorte>
+        <gewicht>78</gewicht>
+        <medaille>GOUD</medaille>
+        <kampioenschap>BELGISCH</kampioenschap>
+    </judoka>
+    <judoka gewichtsklasse="ZWAAR">
+        <naam>Harry Van Barneveld</naam>
+        <geslacht>MAN</geslacht>
+        <geboorte>1967-02-18</geboorte>
+        <gewicht>125</gewicht>
+        <medaille>BRONS</medaille>
+        <kampioenschap>OLYMPISCH</kampioenschap>
+    </judoka>
+</judokas>
